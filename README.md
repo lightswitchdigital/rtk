@@ -7,3 +7,5 @@
 [Фронтенд](https://github.com/lightswitchdigital/rtk-frontend)
 
 [Сервис обработки данных](https://github.com/lightswitchdigital/rtk-java-api)
+
+[Файлы развертывания](https://github.com/lightswitchdigital/rtk-deployments)
